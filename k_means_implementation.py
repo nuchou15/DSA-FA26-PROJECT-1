@@ -1,3 +1,6 @@
+## Implementation of K-means clustering
+# Please read all comments to understand what is going on 
+
 # import necessary libaries
 import numpy as np
 import matplotlib.pyplot as plt 
